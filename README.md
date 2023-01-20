@@ -19,7 +19,3 @@ spring.jpa.hibernate.ddl-auto=update
 
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
 ```
-
-## Package Model
-
-### Classe User - Entity
